@@ -1,4 +1,3 @@
-![capa para o portfolio]([https://i.ibb.co/CVkCHzZ/3-D-Big-data-in-modern-city-Abstract-social-information-sorting-visualization-Human-connections-or-u.jpg](https://i.ibb.co/CVkCHzZ/3-D-Big-data-in-modern-city-Abstract-social-information-sorting-visualization-Human-connections-or-u.jpg))
 
 # Projetos de Data Science
 
