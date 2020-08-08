@@ -6,6 +6,7 @@
 * Análise dos Dados do Google Play Store: https://bit.ly/30of5R8
 
 # Sobre Mim
-Sou Cid Oliveira, Técnico de Técnologia da Informação da Universidade Federal da Bahia.
+Meu Cid Oliveira, atualmente trabalho com dados na Universidade Federal da Bahia. Me interesso por python, aprendizado de máquinas, software livre e aqui divulgo meus projetos em Data Cience.
+
 * Tecnologo em Redes de Computadores pela UCSal
 * Linux Professional Institute Certification 1
