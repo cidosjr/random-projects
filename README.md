@@ -2,8 +2,6 @@
 
 # Projetos de Data Science
 
-* Analise Exploratória dos Planos de Saúdes do Estado da Bahia: https://bit.ly/3geYvtp
-* Análise dos Dados do Google Play Store: https://bit.ly/30of5R8
 * NLP Classificar clube pelo título da postagem: https://bit.ly/31EJaMR
 * Extraindo dados de PDF com Python: https://bit.ly/33jDRDl
 
